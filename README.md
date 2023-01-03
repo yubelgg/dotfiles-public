@@ -1,1 +1,3 @@
-my current dotfile
+# CONFIG
+
+## i3 install from endeavourOS
